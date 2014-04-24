@@ -1,4 +1,4 @@
 gittest
 =======
 
-testing git repo
+Editing first textfile [Link her](http://thesourze.eu)
